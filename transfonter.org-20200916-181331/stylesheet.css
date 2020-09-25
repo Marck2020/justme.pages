@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'From Cartoon Blocks';
+    src: url('FromCartoonBlocks.eot');
+    src: url('FromCartoonBlocks.eot?#iefix') format('embedded-opentype'),
+        url('FromCartoonBlocks.woff2') format('woff2'),
+        url('FromCartoonBlocks.woff') format('woff'),
+        url('FromCartoonBlocks.ttf') format('truetype'),
+        url('FromCartoonBlocks.svg#FromCartoonBlocks') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
