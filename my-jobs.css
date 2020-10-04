@@ -83,9 +83,8 @@ a {
 }
 
 .list {
-    position: center;
     position: relative;
-    margin-left:200px;
+    margin-left:0;
     margin-top: 70px;
 
 }
@@ -201,4 +200,81 @@ li {
     margin-top: 60px;
     text-align: center;
     font-family: "Montserrat";
+}
+
+
+#skills-list {
+    position:relative;
+    margin-right:150px;
+    margin-top:-1000px;
+    float:right;
+    font-family: "Montserrat";
+    
+    
+    
+}
+#icon-container {
+    position: relative;
+    margin-top:30px;
+    margin-left: 30xp;
+}
+
+h5 {
+    font-family: "Montserrat";
+    font-size: 20px;
+    margin-top:60px;
+}
+
+.skills {
+    position:relative;
+    margin-top:30px;
+    margin-right: -80px;
+    height:20px;
+    font-size: 13px;
+    padding:1px;
+    text-align: center;
+    color:black;
+    border-radius: 50px;
+}
+#italian-skill {
+    background: linear-gradient(to right, #E92163 0%, #E92163 100%);
+    
+   
+}
+
+#english-skill {
+    background: linear-gradient(to right, #E92163 0%, #E92163 83%, #D3D3D3 83%, #D3D3D3 100%);
+    
+}
+
+#german-skill {
+    background: linear-gradient(to right, #E92163 0%, #E92163 78%, #D3D3D3 73%, #D3D3D3 100%);
+    }
+#spanish-skill {
+    background: linear-gradient(to right, #E92163 0%, #E92163 24%, #D3D3D3 24%, #D3D3D3 100%);
+    
+}
+
+#html-skill {
+    background: linear-gradient(to right, #E92163 0%, #E92163 78%, #D3D3D3 78%, #D3D3D3 100%);
+    }
+
+#css-skill {
+    background: linear-gradient(to right, #E92163 0%, #E92163 70%, #D3D3D3 70%, #d3d3d3 100%);
+    }
+#javascript-skill {
+    background: linear-gradient(to right, #E92163 0%, #E92163 24%, #D3D3D3 24%, #D3D3D3 100%);
+    
+}
+#jquery-skill {
+    background: linear-gradient(to right, #E92163 0%, #E92163 24%, #D3D3D3 24%, #D3D3D3 100%);
+    
+}
+
+#php-skill {
+    background: linear-gradient(to right, #E92163 0%, #E92163 10%, #D3D3D3 10%, #D3D3D3 100%);
+}
+
+#mysql-skill {
+    background: linear-gradient(to right, #E92163 0%, #E92163 10%, #D3D3D3 10%, #D3D3D3 100%);
 }
