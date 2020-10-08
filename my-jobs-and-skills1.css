@@ -57,6 +57,10 @@ a {
     border-bottom:2px solid black;
     transition: 0.2s;
 }
+
+#my-life {
+    border-bottom: 1px solid black; 
+}
 /*LOGO */
 
 #logo {
