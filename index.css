@@ -87,7 +87,6 @@ h3 {
 
 #titolo, h2, h3 {
     margin:30px 20px 20px 20px;
-    text-align: center;
     
 }
 
@@ -176,6 +175,12 @@ footer {
     h2 {
         font-size: 18px;
     }
+    #titolo, h2, h3 {
+    margin:30px 20px 20px 20px;
+    text-align:center;
+    
+}
+
 #linkedin-icon, #gmail-icon, #xing-icon, #insta-icon {
         max-width:auto;
         max-height:auto;
