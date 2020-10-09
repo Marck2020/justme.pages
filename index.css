@@ -74,19 +74,21 @@ main {
     grid-area: main;
 }
 #titolo {
-    margin: 50px 0px 0px 25px;
     line-height: 1.5;
 }
 
 h2 {   
-    margin-left:25px;
     line-height: 1.7;
 } 
 
 h3 {
-    margin-top:20px;
-    margin-left: 25px;
     line-height: 1.7;
+}
+
+#titolo, h2, h3 {
+    margin:30px 20px 20px 20px;
+    text-align: center;
+    
 }
 
 #many-other-things {
@@ -173,10 +175,6 @@ footer {
     }
     h2 {
         font-size: 18px;
-    }
-    
-    h1, h2, h3, {
-        padding: 0px 10px 0 10px;
     }
 #linkedin-icon, #gmail-icon, #xing-icon, #insta-icon {
         max-width:auto;
