@@ -118,9 +118,10 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
         border:1px solid black;
     }
     
-    #my-image {
-    margin: 95px 0px 30px 120px;
-       
+        #my-image {
+        margin-left: 110px;
+        margin-top: 50px;
+        width:450px;
 }
         #par1, #par2, #par3 {
         line-height: 2;
