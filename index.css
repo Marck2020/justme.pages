@@ -214,4 +214,10 @@ footer {
         margin:10px 0px 10px 0px;
         border:1px solid black;
     }
+    
+     #titolo, h2, h3 {
+    margin:30px 20px 20px 20px;
+    text-align:center;
+    
+}
 }
