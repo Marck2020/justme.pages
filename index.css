@@ -169,10 +169,12 @@ footer {
     #titolo {
         margin-top:20px;
         font-size: 23px;
+        text-align:center;
     }
     
     h1 {
         font-size: 20px;
+        text-align:center;
     }
     
     h2 {
