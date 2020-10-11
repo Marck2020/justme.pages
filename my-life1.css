@@ -139,7 +139,8 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
         "logo"
         "nav"
         "main"
-        "sidebar"
+        "sidebar"; 
+    }
         
 nav {
         margin:10px 0px 10px 0px;
