@@ -129,4 +129,15 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
         padding-bottom: 20px;
     }
 }
-    
+
+
+@media only screen and (min-width: 450px) and (max-width:1007px) and (min-height:200px) and (max-height:600px) {
+    .container {
+        grid-template-columns:1fr;
+        grid-template-rows: 0.4fr 0.4fr 2.2fr 1.2fr 3fr;
+        grid-template-areas: 
+        "logo"
+        "nav"
+        "sidebar"
+        "main"
+    } }
