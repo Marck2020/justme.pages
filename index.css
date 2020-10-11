@@ -224,4 +224,9 @@ footer {
     #titolo {
         margin-top:60px;
 }
+    
+    #sidebar-image {
+        width:50%;
+        height:50%;
+}
 }
