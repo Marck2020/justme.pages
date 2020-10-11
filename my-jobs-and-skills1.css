@@ -179,16 +179,18 @@ main {
         "logo"
         "nav"
         "sidebar"
-        "main"
+        "main";
     }
+    
     nav {
         margin:10px 0px 10px 0px;
         border:1px solid black;
     }
+    
     #logo {
         text-align: center;
 }
-    .skills {
+    .list {
         
     padding: 0px 20px 0px 20px;
 }
