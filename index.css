@@ -220,4 +220,8 @@ footer {
     #titolo, h2, h3 {
         text-align:center;
     }
+    
+    #titolo {
+        margin-top:20px;
+}
 }
