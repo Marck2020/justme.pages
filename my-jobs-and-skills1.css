@@ -116,7 +116,6 @@ main {
 
 #skills {
     text-align: center;
-    padding: 0px 20px 0px 20px;
 }
 .skills {
     font-size: 13px;
@@ -189,8 +188,11 @@ main {
     #logo {
         text-align: center;
 }
+    .skills {
+        
+    padding: 0px 20px 0px 20px;
 }
-
+}
     
     @media only screen and (min-width: 450px) and (max-width:1007px) and (min-height:200px) and (max-height:600px){
     
