@@ -138,9 +138,9 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
         grid-template-areas: 
         "logo"
         "nav"
-        "sidebar"
         "main"
-    } 
+        "sidebar"
+        
 nav {
         margin:10px 0px 10px 0px;
         border:1px solid black;
