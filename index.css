@@ -169,24 +169,22 @@ footer {
     #titolo {
         margin-top:20px;
         font-size: 23px;
-        text-align:center;
     }
     
     h1 {
         font-size: 20px;
-        text-align:center;
     }
     
     h2 {
         font-size: 18px;
     }
     
-    h2, h3 {
+   #titolo, h2, h3 {
     margin:30px 20px 20px 20px;
     text-align:center;
     
 }
-    
+}
 #linkedin-icon, #gmail-icon, #xing-icon, #insta-icon {
         max-width:auto;
         max-height:auto;
